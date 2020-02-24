@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Login from './components/Login/Login';
 
-import './App.css'; // css는 항상 최하단에 임포트하는 것이 컴붼쑝
+import './App.css'; // css는 항상 최하단에 임포트하기!
 
 class App extends Component {
 	constructor() {
